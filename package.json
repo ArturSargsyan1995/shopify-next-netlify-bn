@@ -41,9 +41,7 @@
     "styled-system": "^5.1.5",
     "swiper": "^6.7.0",
     "graphql-request": "^3.5.0",
-    "uuid": "^8.3.2"
-  },
-  "devDependencies": {
+    "uuid": "^8.3.2",
     "babel-plugin-styled-components": "^1.12.0",
     "graphql": "^15.5.3",
     "gray-matter": "^4.0.3",
