@@ -42,7 +42,7 @@
   "devDependencies": {
     "babel-plugin-styled-components": "^1.12.0",
     "graphql": "^15.5.3",
-    "graphql-request": "^3.5.0",
+    "graphql-request": "^4.0.0",
     "gray-matter": "^4.0.3",
     "react-html-parser": "^2.0.2",
     "sass": "^1.34.1"
